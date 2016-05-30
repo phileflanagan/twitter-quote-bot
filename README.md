@@ -16,4 +16,5 @@ Tools Used in Development:
  * Unirest
 
 Tools Used for Production:
- * EncloseJS
+ * EncloseJS (local)
+ * Heroku (hosted)
