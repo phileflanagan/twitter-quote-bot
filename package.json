@@ -1,0 +1,19 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Bot that posts to twitter.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "phileflanagan"
+  },
+  "author": "Phil Flanagan",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.4",
+    "unirest": "^0.5.0"
+  }
+}
