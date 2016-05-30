@@ -43,4 +43,4 @@ function getquote(){
 // Then it will post every 43200000 milliseconds
 // 43200000 is half a day in milliseconds
 getquote();
-setInterval(getquote, 1000*30); 
+setInterval(getquote, 43200000); 
